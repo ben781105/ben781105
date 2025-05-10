@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Benard
 
 I'm a **self-taught developer** passionate about building web applications using modern technologies. Currently, I'm developing a e-commerce cake shop, where users can purchase cakes of there choice and pay from there.
-Ask me about html, css, javascript, react, python ,django,git, mysql
+Ask me about html, css, tailwind , javascript, react, python ,django,git, mysql
 ## 🧰 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React
