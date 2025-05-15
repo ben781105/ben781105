@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SSEWABUGA BENARD</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ben781105&label=Profile%20views&color=0e75b6&style=flat" alt="ben781105" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ben781105" alt="ben781105" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ben41d" target="blank"><img src="https://img.shields.io/twitter/follow/ben41d?logo=twitter&style=for-the-badge" alt="ben41d" /></a> </p>
 
