@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **figma**
 
-- 👯 I’m looking to collaborate on [BLAZE-NEST](https://github.com/ben781105/blaze-nest)
+- 👯 I’m  collaborating on [BLAZE-NEST](https://github.com/ben781105/blaze-nest)
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-0agg.onrender.com](https://portfoliowebsite-0agg.onrender.com)
 
