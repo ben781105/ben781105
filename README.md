@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on [TEO CAKES](https://github.com/ben781105/Teofront)
 
-- 🌱 I’m currently learning **figma**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m  collaborating on [BLAZE-NEST](https://github.com/ben781105/blaze-nest)
 
