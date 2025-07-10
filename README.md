@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/ben41d" target="blank"><img src="https://img.shields.io/twitter/follow/ben41d?logo=twitter&style=for-the-badge" alt="ben41d" /></a> </p>
 
+- 📫 How to reach me **benardleno78@gmail.com**
+  
 - 🔭 I’m currently working on [TEO CAKES](https://github.com/ben781105/Teofront)
 
 - 🌱 I’m currently learning **figma**
@@ -13,13 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-0agg.onrender.com](https://portfoliowebsite-0agg.onrender.com)
 
-- 📝 I regularly write articles on [https://portfoliowebsite-0agg.onrender.com](https://portfoliowebsite-0agg.onrender.com)
-
 - 💬 Ask me about **react,django,javascript,git,python,tailwind,html,css,**
-
-- 📫 How to reach me **benardleno78@gmail.com**
-
-- 📄 Know about my experiences [https://portfoliowebsite-0agg.onrender.com](https://portfoliowebsite-0agg.onrender.com)
 
 - ⚡ Fun fact **i think i can build anything i see**
 
